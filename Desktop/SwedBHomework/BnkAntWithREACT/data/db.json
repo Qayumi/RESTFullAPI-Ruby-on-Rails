@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "EE12345",
+      "datetime": "july 16, 2021 11:47:39 AM",
+      "amount": " + 20.00 ",
+      "details": " received for child school party "
+    },
+    {
+      "id": 2,
+      "title": "EE12346",
+      "datetime": "july 16, 2021 11:47:39 AM",
+      "amount": " -5.07 ",
+      "details": " Remi to buy food "
+    },
+    {
+      "id": 3,
+      "title": "EE12347",
+      "datetime": "February 02, 2022 4:50:06 PM",
+      "amount": " -25.07 ",
+      "details": " Maxima to buy food "
+    },
+    {
+      "id": 4,
+      "title": "EE12348",
+      "datetime": "January 29, 2022 9:04:37 PM",
+      "amount": " -13.19 ",
+      "details": " Sportland to buy shoes "
+    },
+    {
+      "id": 5,
+      "title": "EE12349",
+      "datetime": "January 29, 2022 9:04:37 PM",
+      "amount": " -1.19 ",
+      "details": " PEPCO to buy toy "
+    },
+    {
+      "id": 7,
+      "title": "4566",
+      "datetime": "February 04, 2022 12:13:21 PM",
+      "amount": "3.2",
+      "details": "food"
+    },
+    {
+      "id": 8,
+      "title": "EE123test",
+      "datetime": "February 04, 2022 12:20:42 PM",
+      "amount": "4.6",
+      "details": "food in Remi"
+    }
+  ]
+}
